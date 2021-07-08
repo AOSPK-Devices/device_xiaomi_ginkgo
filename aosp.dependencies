@@ -18,5 +18,11 @@
         "repository":   "ThankYouMario/proprietary_vendor_qcom_sdclang",
         "target_path":  "prebuilts/clang/host/linux-x86/clang-sdllvm",
         "branch":       "ruby-12"
+    },
+    {
+       "remote": "github",
+       "repository": "LineageOS/android_vendor_qcom_opensource_healthd-ext",
+       "target_path": "vendor/qcom/opensource/healthd-ext",
+       "branch": "lineage-18.1"
     }
 ]
