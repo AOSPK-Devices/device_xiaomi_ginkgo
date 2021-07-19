@@ -4,8 +4,10 @@
         "target_path":  "kernel/xiaomi/ginkgo"
     },
     {
-        "repository":   "vendor_xiaomi_ginkgo",
+        "remote":       "github",
+        "repository":   "TheBootloops/vendor_xiaomi_ginkgo",
         "target_path":  "vendor/xiaomi/ginkgo"
+        "branch":       "eleven"
     },
     {
         "remote":       "github",
