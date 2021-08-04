@@ -24,6 +24,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/product_launched_with_p.mk)
 $(call inherit-product, device/xiaomi/ginkgo/device.mk)
 
 # Inherit some common Kraken stuff
+TARGET_BOOT_ANIMATION_RES := 1080
 $(call inherit-product, vendor/aosp/config/common_full_phone.mk)
 
 # Device identifier
